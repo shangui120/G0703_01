@@ -26,6 +26,19 @@ public class MainController {
         return "login";
     }
 
+
+
+
+
+//    是擦肩快乐积分可怜的撒娇的开发技术飞机撒就
+
+
+    /*--------------------------------
+    |          公司发的噶士大夫           |
+     ==================================*/
+
+
+
     // 登录表单验证
     @RequestMapping(value = "/loginsubmit")
     public String loginsubmit(HttpServletRequest request) throws Exception {
